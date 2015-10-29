@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/admin/getVerify.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configs/configs.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/shopGud.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/include.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/image.func.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/mysql.func.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/page.func.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/string.func.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
