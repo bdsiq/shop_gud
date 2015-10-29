@@ -29,19 +29,19 @@
     <table width="70%" border="1" cellpadding="5" cellspacing="0" bgcolor="#cccccc">
         <tr>
             <th>系统名称</th>
-            <td>慕课网电子商城</td>
+            <td>电子商城</td>
         </tr>
         <tr>
             <th>开发团队</th>
-            <td>King&慕课网的小伙伴</td>
+            <td>gud&没人啊</td>
         </tr>
         <tr>
             <th>公司网址</th>
-            <td><a href="http://www.imooc.com">http://www.imooc.com</a></td>
+            <td><a href="http://www.baidu.com">http://www.baidu.com</a></td>
         </tr>
         <tr>
             <th>成功案例</th>
-            <td>慕课网</td>
+            <td>无</td>
         </tr>
     </table>
 </center>
